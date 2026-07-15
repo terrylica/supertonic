@@ -1,5 +1,14 @@
 # Supertonic — Lightning Fast, On-Device, Accurate TTS
 
+> [!CAUTION]
+> ## ⚠️ Development and Support Discontinuation Notice
+>
+> **Supertonic is no longer under active development and will not receive further updates or official support.**
+>
+> This repository will remain publicly available for reference and existing use. However, no new features, bug fixes, compatibility updates, or maintenance releases are planned.
+>
+> Thank you to everyone who has used, contributed to, and supported Supertonic.
+
 <p align="center">
   <img src="img/Supertonic3_HeroImage.png" alt="Supertonic 3 Banner">
 </p>
